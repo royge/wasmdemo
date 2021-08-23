@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# wasm build output
+build
+
+# vim temporary files
+.*.swp
+.*.swo
